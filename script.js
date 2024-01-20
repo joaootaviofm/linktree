@@ -9,5 +9,4 @@ function toggleMode(){
     else{
         img.setAttribute('src','./assets/avatar-darkbaby2.jpg')
     }
-
 }
